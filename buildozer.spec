@@ -7,7 +7,7 @@ title = Password Generator
 package.name = pwgenerator
 
 # (str) Package domain (reverse-DNS style, must be unique-ish)
-package.domain = org.yourname
+package.domain = org.zeplerish
 
 # (str) Source code where the main.py lives
 source.dir = .
